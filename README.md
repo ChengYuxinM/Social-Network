@@ -32,3 +32,6 @@ Or use the data process program including dataLoad.py, dataProcess.py, features.
 
 # checkpoint:
 I have saved the best checkpoint of the LR model, please load it into churn.ipynb and use it to view the results.
+
+# Computational resource
+If you need to use Azure computational resource or encounter with other problem, please feel free to contact me.
